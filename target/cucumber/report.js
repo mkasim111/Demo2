@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 32556007624,
+  "duration": 30737086495,
   "status": "passed"
 });
 formatter.scenario({
@@ -49,25 +49,25 @@ formatter.match({
   "location": "StepDefPractice.user_navigate_to_practice_page()"
 });
 formatter.result({
-  "duration": 9950884392,
+  "duration": 22695696143,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefPractice.user_clicks_on_the_Login_button()"
 });
 formatter.result({
-  "duration": 3277238871,
+  "duration": 3619407508,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefPractice.user_should_navigate_successfully_to_Login_Page()"
 });
 formatter.result({
-  "duration": 5116846994,
+  "duration": 14043834313,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3574112635,
+  "duration": 5007915703,
   "status": "passed"
 });
 });

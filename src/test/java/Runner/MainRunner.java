@@ -13,7 +13,7 @@ import cucumber.api.junit.Cucumber;
 		dryRun=false,
 		monochrome= true,
 		tags= {"@tagPractice"},
-		plugin= {"pretty","html:target/cucumber","json:target/cucumber.json",
+		plugin= {"pretty","html:target/cucumber",
 				"com.cucumber.listener.ExtentCucumberFormatter:target/report.html"
 		}
 		)
